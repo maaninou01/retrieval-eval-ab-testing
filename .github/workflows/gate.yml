@@ -1,0 +1,12 @@
+name: gate
+on: pull_request
+jobs:
+  gate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+      - uses: astral-sh/setup-uv@v10.2.0
+      - run: uv run pytest -q
+      - run: uv run python evaluate.py report >> "$GITHUB_STEP_SUMMARY"
+      - run: uv run python evaluate.py gate

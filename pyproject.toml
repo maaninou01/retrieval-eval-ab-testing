@@ -1,0 +1,21 @@
+[project]
+name = "retrieval-eval-ab-testing"
+version = "0.1.0"
+description = "A/B testing for legal RAG retrieval with clustered bootstrap confidence intervals and a CI gate."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "bm25s>=0.3.11",
+    "boto3>=1.43.101",
+    "langchain-text-splitters>=1.1.2",
+    "numpy>=2.5.3",
+    "pystemmer>=3.1.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]

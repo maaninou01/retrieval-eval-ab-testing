@@ -1,0 +1,5439 @@
+{
+ "setup": "hybrid-rerank",
+ "fingerprint": "828186f31856de0857a30e5144da81bacbd85250a701000bf77b9ab51dc54f33",
+ "chunks": 22581,
+ "questions": [
+  {
+   "dataset": "privacy_qa",
+   "index": 0,
+   "doc": "privacy_qa/Fiverr.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 1,
+   "doc": "privacy_qa/Fiverr.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 2,
+   "doc": "privacy_qa/Fiverr.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 3,
+   "doc": "privacy_qa/Fiverr.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 4,
+   "doc": "privacy_qa/Fiverr.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 5,
+   "doc": "privacy_qa/Fiverr.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 6,
+   "doc": "privacy_qa/Fiverr.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 7,
+   "doc": "privacy_qa/Fiverr.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 8,
+   "doc": "privacy_qa/Fiverr.txt",
+   "recall": 0.28959627329192544,
+   "rr": 0.2
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 9,
+   "doc": "privacy_qa/Fiverr.txt",
+   "recall": 0.6577181208053692,
+   "rr": 0.5
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 10,
+   "doc": "privacy_qa/Fiverr.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 11,
+   "doc": "privacy_qa/Fiverr.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 12,
+   "doc": "privacy_qa/Fiverr.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 13,
+   "doc": "privacy_qa/Fiverr.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 14,
+   "doc": "privacy_qa/Fiverr.txt",
+   "recall": 0.4572192513368984,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 15,
+   "doc": "privacy_qa/Fiverr.txt",
+   "recall": 0.22576785001994415,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 16,
+   "doc": "privacy_qa/Fiverr.txt",
+   "recall": 0.6577181208053692,
+   "rr": 0.5
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 17,
+   "doc": "privacy_qa/Fiverr.txt",
+   "recall": 0.4572192513368984,
+   "rr": 0.25
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 18,
+   "doc": "privacy_qa/Fiverr.txt",
+   "recall": 0.21344262295081967,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 19,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 0.6979472140762464,
+   "rr": 0.09090909090909091
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 20,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 0.48263642806520196,
+   "rr": 0.5
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 21,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 1.0,
+   "rr": 0.09090909090909091
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 22,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 0.26068965517241377,
+   "rr": 0.09090909090909091
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 23,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 0.579841449603624,
+   "rr": 0.5
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 24,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 0.579841449603624,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 25,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 1.0,
+   "rr": 0.2
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 26,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 27,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 0.6979472140762464,
+   "rr": 0.1
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 28,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 0.5185185185185185,
+   "rr": 0.09090909090909091
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 29,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 0.9963636363636363,
+   "rr": 0.125
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 30,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 31,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 0.8776978417266187,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 32,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 0.9963636363636363,
+   "rr": 0.14285714285714285
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 33,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 0.796875,
+   "rr": 0.2
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 34,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 0.38513513513513514,
+   "rr": 0.1111111111111111
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 35,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 0.6828644501278772,
+   "rr": 0.5
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 36,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 0.5772357723577236,
+   "rr": 0.5
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 37,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 0.9239472030169704,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 38,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 0.579841449603624,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 39,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 0.9840425531914894,
+   "rr": 0.25
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 40,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 41,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 1.0,
+   "rr": 0.08333333333333333
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 42,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 1.0,
+   "rr": 0.125
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 43,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 0.579841449603624,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 44,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 0.9966216216216216,
+   "rr": 0.1111111111111111
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 45,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 46,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 0.579841449603624,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 47,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 0.9966216216216216,
+   "rr": 0.125
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 48,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 49,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 50,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 0.579841449603624,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 51,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 0.5705996131528046,
+   "rr": 0.1111111111111111
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 52,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 0.6710393541876892,
+   "rr": 0.5
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 53,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 54,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 0.9966216216216216,
+   "rr": 0.125
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 55,
+   "doc": "privacy_qa/Keep.txt",
+   "recall": 0.42578849721706863,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 56,
+   "doc": "privacy_qa/Groupon.txt",
+   "recall": 0.9981447124304267,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 57,
+   "doc": "privacy_qa/Groupon.txt",
+   "recall": 0.9981447124304267,
+   "rr": 0.5
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 58,
+   "doc": "privacy_qa/Groupon.txt",
+   "recall": 0.5937122128174124,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 59,
+   "doc": "privacy_qa/Groupon.txt",
+   "recall": 0.21653214583913163,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 60,
+   "doc": "privacy_qa/Groupon.txt",
+   "recall": 0.2887323943661972,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 61,
+   "doc": "privacy_qa/Groupon.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 62,
+   "doc": "privacy_qa/Groupon.txt",
+   "recall": 0.7793650793650794,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 63,
+   "doc": "privacy_qa/Groupon.txt",
+   "recall": 0.28604786923525977,
+   "rr": 0.25
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 64,
+   "doc": "privacy_qa/Groupon.txt",
+   "recall": 0.06975533576262363,
+   "rr": 0.25
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 65,
+   "doc": "privacy_qa/Groupon.txt",
+   "recall": 0.41887905604719766,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 66,
+   "doc": "privacy_qa/Groupon.txt",
+   "recall": 0.9981447124304267,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 67,
+   "doc": "privacy_qa/Groupon.txt",
+   "recall": 0.7011494252873564,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 68,
+   "doc": "privacy_qa/Groupon.txt",
+   "recall": 0.5819477434679335,
+   "rr": 0.125
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 69,
+   "doc": "privacy_qa/Groupon.txt",
+   "recall": 0.27253668763102723,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 70,
+   "doc": "privacy_qa/Groupon.txt",
+   "recall": 0.4675438596491228,
+   "rr": 0.25
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 71,
+   "doc": "privacy_qa/Groupon.txt",
+   "recall": 0.3050847457627119,
+   "rr": 0.1111111111111111
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 72,
+   "doc": "privacy_qa/Groupon.txt",
+   "recall": 0.24133753331717955,
+   "rr": 0.5
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 73,
+   "doc": "privacy_qa/Groupon.txt",
+   "recall": 0.4833546734955186,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 74,
+   "doc": "privacy_qa/Groupon.txt",
+   "recall": 0.1815843621399177,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 75,
+   "doc": "privacy_qa/Groupon.txt",
+   "recall": 0.41887905604719766,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 76,
+   "doc": "privacy_qa/Groupon.txt",
+   "recall": 0.7144772117962467,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 77,
+   "doc": "privacy_qa/Groupon.txt",
+   "recall": 0.26071103008204194,
+   "rr": 0.5
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 78,
+   "doc": "privacy_qa/Groupon.txt",
+   "recall": 0.6107554417413572,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 79,
+   "doc": "privacy_qa/Groupon.txt",
+   "recall": 0.26134872736814485,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 80,
+   "doc": "privacy_qa/Groupon.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 81,
+   "doc": "privacy_qa/Groupon.txt",
+   "recall": 0.41887905604719766,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 82,
+   "doc": "privacy_qa/Groupon.txt",
+   "recall": 0.4675438596491228,
+   "rr": 0.5
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 83,
+   "doc": "privacy_qa/Groupon.txt",
+   "recall": 0.04742190440346255,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 84,
+   "doc": "privacy_qa/Groupon.txt",
+   "recall": 0.7011494252873564,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 85,
+   "doc": "privacy_qa/Groupon.txt",
+   "recall": 0.9981447124304267,
+   "rr": 0.16666666666666666
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 86,
+   "doc": "privacy_qa/Groupon.txt",
+   "recall": 0.9981447124304267,
+   "rr": 0.5
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 87,
+   "doc": "privacy_qa/Groupon.txt",
+   "recall": 0.9981447124304267,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 88,
+   "doc": "privacy_qa/Groupon.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 89,
+   "doc": "privacy_qa/Wordscapes.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 90,
+   "doc": "privacy_qa/Wordscapes.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 91,
+   "doc": "privacy_qa/Wordscapes.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 92,
+   "doc": "privacy_qa/Wordscapes.txt",
+   "recall": 0.11335676625659051,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 93,
+   "doc": "privacy_qa/Wordscapes.txt",
+   "recall": 0.38847117794486213,
+   "rr": 0.125
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 94,
+   "doc": "privacy_qa/Wordscapes.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 95,
+   "doc": "privacy_qa/Wordscapes.txt",
+   "recall": 0.9944341372912802,
+   "rr": 0.25
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 96,
+   "doc": "privacy_qa/Wordscapes.txt",
+   "recall": 0.12155866158407455,
+   "rr": 0.5
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 97,
+   "doc": "privacy_qa/Wordscapes.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 98,
+   "doc": "privacy_qa/Wordscapes.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 99,
+   "doc": "privacy_qa/Wordscapes.txt",
+   "recall": 0.8274582560296846,
+   "rr": 0.5
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 100,
+   "doc": "privacy_qa/Wordscapes.txt",
+   "recall": 0.2857142857142857,
+   "rr": 0.1
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 101,
+   "doc": "privacy_qa/Wordscapes.txt",
+   "recall": 0.11335676625659051,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 102,
+   "doc": "privacy_qa/Wordscapes.txt",
+   "recall": 0.8274582560296846,
+   "rr": 0.5
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 103,
+   "doc": "privacy_qa/Wordscapes.txt",
+   "recall": 0.8274582560296846,
+   "rr": 0.2
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 104,
+   "doc": "privacy_qa/Wordscapes.txt",
+   "recall": 0.1,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 105,
+   "doc": "privacy_qa/Wordscapes.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 106,
+   "doc": "privacy_qa/Wordscapes.txt",
+   "recall": 0.8274582560296846,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 107,
+   "doc": "privacy_qa/Wordscapes.txt",
+   "recall": 1.0,
+   "rr": 0.07692307692307693
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 108,
+   "doc": "privacy_qa/Wordscapes.txt",
+   "recall": 0.4801362088535755,
+   "rr": 0.2
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 109,
+   "doc": "privacy_qa/Wordscapes.txt",
+   "recall": 1.0,
+   "rr": 0.5
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 110,
+   "doc": "privacy_qa/Wordscapes.txt",
+   "recall": 0.48370927318295737,
+   "rr": 0.09090909090909091
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 111,
+   "doc": "privacy_qa/Wordscapes.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 112,
+   "doc": "privacy_qa/Wordscapes.txt",
+   "recall": 0.8274582560296846,
+   "rr": 0.5
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 113,
+   "doc": "privacy_qa/Wordscapes.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 114,
+   "doc": "privacy_qa/Wordscapes.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 115,
+   "doc": "privacy_qa/Wordscapes.txt",
+   "recall": 0.6376811594202898,
+   "rr": 0.2
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 116,
+   "doc": "privacy_qa/Wordscapes.txt",
+   "recall": 0.8274582560296846,
+   "rr": 0.5
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 117,
+   "doc": "privacy_qa/Wordscapes.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 118,
+   "doc": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 119,
+   "doc": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
+   "recall": 0.33226837060702874,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 120,
+   "doc": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
+   "recall": 0.9904761904761905,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 121,
+   "doc": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
+   "recall": 0.9957081545064378,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 122,
+   "doc": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
+   "recall": 0.6379310344827587,
+   "rr": 0.5
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 123,
+   "doc": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 124,
+   "doc": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
+   "recall": 0.9943609022556391,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 125,
+   "doc": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 126,
+   "doc": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 127,
+   "doc": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 128,
+   "doc": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 129,
+   "doc": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 130,
+   "doc": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 131,
+   "doc": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 132,
+   "doc": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 133,
+   "doc": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
+   "recall": 0.9903381642512077,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 134,
+   "doc": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
+   "recall": 0.6379310344827587,
+   "rr": 0.5
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 135,
+   "doc": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 136,
+   "doc": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 137,
+   "doc": "privacy_qa/TickTick: To Do List with Reminder, Day Planner.txt",
+   "recall": 0.25687203791469193,
+   "rr": 0.5
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 138,
+   "doc": "privacy_qa/23andMe.txt",
+   "recall": 0.14614549402823018,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 139,
+   "doc": "privacy_qa/23andMe.txt",
+   "recall": 0.9986876640419947,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 140,
+   "doc": "privacy_qa/23andMe.txt",
+   "recall": 0.2563176895306859,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 141,
+   "doc": "privacy_qa/23andMe.txt",
+   "recall": 0.3530377668308703,
+   "rr": 0.1111111111111111
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 142,
+   "doc": "privacy_qa/23andMe.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 143,
+   "doc": "privacy_qa/23andMe.txt",
+   "recall": 0.474960344436891,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 144,
+   "doc": "privacy_qa/23andMe.txt",
+   "recall": 0.9976359338061466,
+   "rr": 0.5
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 145,
+   "doc": "privacy_qa/23andMe.txt",
+   "recall": 0.6402843601895735,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 146,
+   "doc": "privacy_qa/23andMe.txt",
+   "recall": 0.06585309693760073,
+   "rr": 0.25
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 147,
+   "doc": "privacy_qa/23andMe.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 148,
+   "doc": "privacy_qa/23andMe.txt",
+   "recall": 1.0,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 149,
+   "doc": "privacy_qa/23andMe.txt",
+   "recall": 0.21763247964121327,
+   "rr": 0.5
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 150,
+   "doc": "privacy_qa/23andMe.txt",
+   "recall": 0.44234800838574423,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 151,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.9867109634551495,
+   "rr": 0.5
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 152,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.9867109634551495,
+   "rr": 0.2
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 153,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.9867109634551495,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 154,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.7326786688488817,
+   "rr": 0.5
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 155,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.5697291824854467,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 156,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.5174163003043625,
+   "rr": 0.5
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 157,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.43419267299864317,
+   "rr": 0.08333333333333333
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 158,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.9867109634551495,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 159,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.9867109634551495,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 160,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.9867109634551495,
+   "rr": 0.5
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 161,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 1.0,
+   "rr": 0.08333333333333333
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 162,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 163,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 164,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 165,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.36304700162074555,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 166,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 167,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.2128335451080051,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 168,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 169,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 170,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.9958847736625515,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 171,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.9948320413436692,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 172,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.15675057208237986,
+   "rr": 0.25
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 173,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.4226618705035971,
+   "rr": 0.125
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 174,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.6871111111111111,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 175,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.6341263330598852,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 176,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.9958847736625515,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 177,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.4897959183673469,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 178,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 179,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.13854595336076816,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 180,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 181,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 182,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.3339622641509434,
+   "rr": 0.1111111111111111
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 183,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 184,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 185,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 186,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.13854595336076816,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 187,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.7822349570200573,
+   "rr": 0.5
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 188,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 1.0,
+   "rr": 0.08333333333333333
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 189,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 190,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.9972627737226277,
+   "rr": 1.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 191,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 192,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.22986036519871106,
+   "rr": 0.5
+  },
+  {
+   "dataset": "privacy_qa",
+   "index": 193,
+   "doc": "privacy_qa/Viber Messenger.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 876,
+   "doc": "contractnli/ceii-and-nda.txt",
+   "recall": 0.9982046678635548,
+   "rr": 0.2
+  },
+  {
+   "dataset": "contractnli",
+   "index": 877,
+   "doc": "contractnli/ceii-and-nda.txt",
+   "recall": 0.35714285714285715,
+   "rr": 0.1
+  },
+  {
+   "dataset": "contractnli",
+   "index": 878,
+   "doc": "contractnli/ceii-and-nda.txt",
+   "recall": 0.9441747572815534,
+   "rr": 0.5
+  },
+  {
+   "dataset": "contractnli",
+   "index": 879,
+   "doc": "contractnli/ceii-and-nda.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 880,
+   "doc": "contractnli/ceii-and-nda.txt",
+   "recall": 1.0,
+   "rr": 0.16666666666666666
+  },
+  {
+   "dataset": "contractnli",
+   "index": 881,
+   "doc": "contractnli/ceii-and-nda.txt",
+   "recall": 0.6302816901408451,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "contractnli",
+   "index": 882,
+   "doc": "contractnli/ceii-and-nda.txt",
+   "recall": 0.8879528222409435,
+   "rr": 0.5
+  },
+  {
+   "dataset": "contractnli",
+   "index": 883,
+   "doc": "contractnli/ceii-and-nda.txt",
+   "recall": 0.6952104499274311,
+   "rr": 1.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 884,
+   "doc": "contractnli/ceii-and-nda.txt",
+   "recall": 0.657552973342447,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "contractnli",
+   "index": 885,
+   "doc": "contractnli/ceii-and-nda.txt",
+   "recall": 0.9094387755102041,
+   "rr": 0.5
+  },
+  {
+   "dataset": "contractnli",
+   "index": 886,
+   "doc": "contractnli/ceii-and-nda.txt",
+   "recall": 0.4213709677419355,
+   "rr": 0.1
+  },
+  {
+   "dataset": "contractnli",
+   "index": 469,
+   "doc": "contractnli/nda_form_motorola.txt",
+   "recall": 1.0,
+   "rr": 0.14285714285714285
+  },
+  {
+   "dataset": "contractnli",
+   "index": 470,
+   "doc": "contractnli/nda_form_motorola.txt",
+   "recall": 1.0,
+   "rr": 0.25
+  },
+  {
+   "dataset": "contractnli",
+   "index": 471,
+   "doc": "contractnli/nda_form_motorola.txt",
+   "recall": 0.8141361256544503,
+   "rr": 0.5
+  },
+  {
+   "dataset": "contractnli",
+   "index": 472,
+   "doc": "contractnli/nda_form_motorola.txt",
+   "recall": 1.0,
+   "rr": 0.5
+  },
+  {
+   "dataset": "contractnli",
+   "index": 968,
+   "doc": "contractnli/VELCO%20NDA%20rev0%20Dec%2014%202015.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 969,
+   "doc": "contractnli/VELCO%20NDA%20rev0%20Dec%2014%202015.txt",
+   "recall": 1.0,
+   "rr": 1.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 970,
+   "doc": "contractnli/VELCO%20NDA%20rev0%20Dec%2014%202015.txt",
+   "recall": 1.0,
+   "rr": 1.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 971,
+   "doc": "contractnli/VELCO%20NDA%20rev0%20Dec%2014%202015.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 972,
+   "doc": "contractnli/VELCO%20NDA%20rev0%20Dec%2014%202015.txt",
+   "recall": 0.9608127721335269,
+   "rr": 1.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 973,
+   "doc": "contractnli/VELCO%20NDA%20rev0%20Dec%2014%202015.txt",
+   "recall": 0.7699115044247787,
+   "rr": 0.2
+  },
+  {
+   "dataset": "contractnli",
+   "index": 974,
+   "doc": "contractnli/VELCO%20NDA%20rev0%20Dec%2014%202015.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 975,
+   "doc": "contractnli/VELCO%20NDA%20rev0%20Dec%2014%202015.txt",
+   "recall": 0.7699115044247787,
+   "rr": 0.5
+  },
+  {
+   "dataset": "contractnli",
+   "index": 976,
+   "doc": "contractnli/VELCO%20NDA%20rev0%20Dec%2014%202015.txt",
+   "recall": 0.9686888454011742,
+   "rr": 0.2
+  },
+  {
+   "dataset": "contractnli",
+   "index": 907,
+   "doc": "contractnli/Mutual-Non-Disclosure-Agreement-Inventor-Product-Development-Experts-Inc..txt",
+   "recall": 1.0,
+   "rr": 1.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 908,
+   "doc": "contractnli/Mutual-Non-Disclosure-Agreement-Inventor-Product-Development-Experts-Inc..txt",
+   "recall": 0.4289985052316891,
+   "rr": 0.2
+  },
+  {
+   "dataset": "contractnli",
+   "index": 909,
+   "doc": "contractnli/Mutual-Non-Disclosure-Agreement-Inventor-Product-Development-Experts-Inc..txt",
+   "recall": 0.8897058823529411,
+   "rr": 0.09090909090909091
+  },
+  {
+   "dataset": "contractnli",
+   "index": 910,
+   "doc": "contractnli/Mutual-Non-Disclosure-Agreement-Inventor-Product-Development-Experts-Inc..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 911,
+   "doc": "contractnli/Mutual-Non-Disclosure-Agreement-Inventor-Product-Development-Experts-Inc..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 912,
+   "doc": "contractnli/Mutual-Non-Disclosure-Agreement-Inventor-Product-Development-Experts-Inc..txt",
+   "recall": 0.75,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "contractnli",
+   "index": 913,
+   "doc": "contractnli/Mutual-Non-Disclosure-Agreement-Inventor-Product-Development-Experts-Inc..txt",
+   "recall": 0.9986737400530504,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "contractnli",
+   "index": 914,
+   "doc": "contractnli/Mutual-Non-Disclosure-Agreement-Inventor-Product-Development-Experts-Inc..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 915,
+   "doc": "contractnli/Mutual-Non-Disclosure-Agreement-Inventor-Product-Development-Experts-Inc..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 916,
+   "doc": "contractnli/Mutual-Non-Disclosure-Agreement-Inventor-Product-Development-Experts-Inc..txt",
+   "recall": 0.5084745762711864,
+   "rr": 0.09090909090909091
+  },
+  {
+   "dataset": "contractnli",
+   "index": 917,
+   "doc": "contractnli/Mutual-Non-Disclosure-Agreement-Inventor-Product-Development-Experts-Inc..txt",
+   "recall": 0.43902439024390244,
+   "rr": 0.14285714285714285
+  },
+  {
+   "dataset": "contractnli",
+   "index": 918,
+   "doc": "contractnli/Mutual-Non-Disclosure-Agreement-Inventor-Product-Development-Experts-Inc..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 919,
+   "doc": "contractnli/Mutual-Non-Disclosure-Agreement-Inventor-Product-Development-Experts-Inc..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 433,
+   "doc": "contractnli/NDA-Seeed.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 434,
+   "doc": "contractnli/NDA-Seeed.txt",
+   "recall": 1.0,
+   "rr": 0.25
+  },
+  {
+   "dataset": "contractnli",
+   "index": 435,
+   "doc": "contractnli/NDA-Seeed.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 436,
+   "doc": "contractnli/NDA-Seeed.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 437,
+   "doc": "contractnli/NDA-Seeed.txt",
+   "recall": 0.4948665297741273,
+   "rr": 0.2
+  },
+  {
+   "dataset": "contractnli",
+   "index": 438,
+   "doc": "contractnli/NDA-Seeed.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 439,
+   "doc": "contractnli/NDA-Seeed.txt",
+   "recall": 0.645021645021645,
+   "rr": 0.1111111111111111
+  },
+  {
+   "dataset": "contractnli",
+   "index": 440,
+   "doc": "contractnli/NDA-Seeed.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 77,
+   "doc": "contractnli/ExcelerateStandardNDAFormat.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 78,
+   "doc": "contractnli/ExcelerateStandardNDAFormat.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 79,
+   "doc": "contractnli/ExcelerateStandardNDAFormat.txt",
+   "recall": 0.5768421052631579,
+   "rr": 0.2
+  },
+  {
+   "dataset": "contractnli",
+   "index": 80,
+   "doc": "contractnli/ExcelerateStandardNDAFormat.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 81,
+   "doc": "contractnli/ExcelerateStandardNDAFormat.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 82,
+   "doc": "contractnli/ExcelerateStandardNDAFormat.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 83,
+   "doc": "contractnli/ExcelerateStandardNDAFormat.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 84,
+   "doc": "contractnli/ExcelerateStandardNDAFormat.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 85,
+   "doc": "contractnli/ExcelerateStandardNDAFormat.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 86,
+   "doc": "contractnli/ExcelerateStandardNDAFormat.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 87,
+   "doc": "contractnli/ExcelerateStandardNDAFormat.txt",
+   "recall": 0.3882646691635456,
+   "rr": 0.16666666666666666
+  },
+  {
+   "dataset": "contractnli",
+   "index": 88,
+   "doc": "contractnli/ExcelerateStandardNDAFormat.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 89,
+   "doc": "contractnli/ExcelerateStandardNDAFormat.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 90,
+   "doc": "contractnli/ExcelerateStandardNDAFormat.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 807,
+   "doc": "contractnli/AGProjects-NDA.txt",
+   "recall": 0.7683284457478006,
+   "rr": 0.1
+  },
+  {
+   "dataset": "contractnli",
+   "index": 808,
+   "doc": "contractnli/AGProjects-NDA.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 809,
+   "doc": "contractnli/AGProjects-NDA.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 810,
+   "doc": "contractnli/AGProjects-NDA.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 811,
+   "doc": "contractnli/AGProjects-NDA.txt",
+   "recall": 0.8656987295825771,
+   "rr": 0.2
+  },
+  {
+   "dataset": "contractnli",
+   "index": 812,
+   "doc": "contractnli/AGProjects-NDA.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 813,
+   "doc": "contractnli/AGProjects-NDA.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 814,
+   "doc": "contractnli/AGProjects-NDA.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 815,
+   "doc": "contractnli/AGProjects-NDA.txt",
+   "recall": 0.8656987295825771,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "contractnli",
+   "index": 816,
+   "doc": "contractnli/AGProjects-NDA.txt",
+   "recall": 1.0,
+   "rr": 1.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 230,
+   "doc": "contractnli/Kenway-NDA-Form-Blank.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 231,
+   "doc": "contractnli/Kenway-NDA-Form-Blank.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 232,
+   "doc": "contractnli/Kenway-NDA-Form-Blank.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 233,
+   "doc": "contractnli/Kenway-NDA-Form-Blank.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 234,
+   "doc": "contractnli/Kenway-NDA-Form-Blank.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 235,
+   "doc": "contractnli/Kenway-NDA-Form-Blank.txt",
+   "recall": 0.17704918032786884,
+   "rr": 0.14285714285714285
+  },
+  {
+   "dataset": "contractnli",
+   "index": 236,
+   "doc": "contractnli/Kenway-NDA-Form-Blank.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 237,
+   "doc": "contractnli/Kenway-NDA-Form-Blank.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 238,
+   "doc": "contractnli/Kenway-NDA-Form-Blank.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 239,
+   "doc": "contractnli/Kenway-NDA-Form-Blank.txt",
+   "recall": 0.5886889460154242,
+   "rr": 0.25
+  },
+  {
+   "dataset": "contractnli",
+   "index": 240,
+   "doc": "contractnli/Kenway-NDA-Form-Blank.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 241,
+   "doc": "contractnli/Kenway-NDA-Form-Blank.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 242,
+   "doc": "contractnli/Kenway-NDA-Form-Blank.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 243,
+   "doc": "contractnli/Kenway-NDA-Form-Blank.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 132,
+   "doc": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+   "recall": 1.0,
+   "rr": 0.09090909090909091
+  },
+  {
+   "dataset": "contractnli",
+   "index": 133,
+   "doc": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+   "recall": 0.6012931034482759,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "contractnli",
+   "index": 134,
+   "doc": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+   "recall": 0.03690807799442897,
+   "rr": 1.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 135,
+   "doc": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+   "recall": 0.11523046092184369,
+   "rr": 0.25
+  },
+  {
+   "dataset": "contractnli",
+   "index": 136,
+   "doc": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 137,
+   "doc": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+   "recall": 0.7306843267108167,
+   "rr": 1.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 138,
+   "doc": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 139,
+   "doc": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+   "recall": 0.8386752136752137,
+   "rr": 1.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 140,
+   "doc": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+   "recall": 0.19213583556747096,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "contractnli",
+   "index": 141,
+   "doc": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+   "recall": 1.0,
+   "rr": 0.25
+  },
+  {
+   "dataset": "contractnli",
+   "index": 142,
+   "doc": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+   "recall": 1.0,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "contractnli",
+   "index": 143,
+   "doc": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+   "recall": 0.8183333333333334,
+   "rr": 0.2
+  },
+  {
+   "dataset": "contractnli",
+   "index": 144,
+   "doc": "contractnli/HNBA-2017-18-Confidentiality-Agreement.txt",
+   "recall": 0.99812382739212,
+   "rr": 0.25
+  },
+  {
+   "dataset": "contractnli",
+   "index": 91,
+   "doc": "contractnli/FNHA-2019RFP-02-NDA-form.txt",
+   "recall": 1.0,
+   "rr": 0.2
+  },
+  {
+   "dataset": "contractnli",
+   "index": 92,
+   "doc": "contractnli/FNHA-2019RFP-02-NDA-form.txt",
+   "recall": 1.0,
+   "rr": 1.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 93,
+   "doc": "contractnli/FNHA-2019RFP-02-NDA-form.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 94,
+   "doc": "contractnli/FNHA-2019RFP-02-NDA-form.txt",
+   "recall": 0.9611650485436893,
+   "rr": 0.2
+  },
+  {
+   "dataset": "contractnli",
+   "index": 95,
+   "doc": "contractnli/FNHA-2019RFP-02-NDA-form.txt",
+   "recall": 0.9611650485436893,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "contractnli",
+   "index": 96,
+   "doc": "contractnli/FNHA-2019RFP-02-NDA-form.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 97,
+   "doc": "contractnli/FNHA-2019RFP-02-NDA-form.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 98,
+   "doc": "contractnli/FNHA-2019RFP-02-NDA-form.txt",
+   "recall": 1.0,
+   "rr": 1.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 99,
+   "doc": "contractnli/FNHA-2019RFP-02-NDA-form.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 66,
+   "doc": "contractnli/Evelozcity%20OESA%20NDA.txt",
+   "recall": 1.0,
+   "rr": 0.5
+  },
+  {
+   "dataset": "contractnli",
+   "index": 67,
+   "doc": "contractnli/Evelozcity%20OESA%20NDA.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 68,
+   "doc": "contractnli/Evelozcity%20OESA%20NDA.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 69,
+   "doc": "contractnli/Evelozcity%20OESA%20NDA.txt",
+   "recall": 1.0,
+   "rr": 1.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 70,
+   "doc": "contractnli/Evelozcity%20OESA%20NDA.txt",
+   "recall": 0.5043988269794721,
+   "rr": 0.5
+  },
+  {
+   "dataset": "contractnli",
+   "index": 71,
+   "doc": "contractnli/Evelozcity%20OESA%20NDA.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 72,
+   "doc": "contractnli/Evelozcity%20OESA%20NDA.txt",
+   "recall": 0.8282352941176471,
+   "rr": 1.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 73,
+   "doc": "contractnli/Evelozcity%20OESA%20NDA.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 74,
+   "doc": "contractnli/Evelozcity%20OESA%20NDA.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 75,
+   "doc": "contractnli/Evelozcity%20OESA%20NDA.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 76,
+   "doc": "contractnli/Evelozcity%20OESA%20NDA.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 184,
+   "doc": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
+   "recall": 0.44173913043478263,
+   "rr": 0.2
+  },
+  {
+   "dataset": "contractnli",
+   "index": 185,
+   "doc": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
+   "recall": 0.37155621742367834,
+   "rr": 0.1
+  },
+  {
+   "dataset": "contractnli",
+   "index": 186,
+   "doc": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
+   "recall": 0.05371642723297939,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "contractnli",
+   "index": 187,
+   "doc": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 188,
+   "doc": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 189,
+   "doc": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
+   "recall": 1.0,
+   "rr": 0.16666666666666666
+  },
+  {
+   "dataset": "contractnli",
+   "index": 190,
+   "doc": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
+   "recall": 0.17725347852389595,
+   "rr": 1.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 191,
+   "doc": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 192,
+   "doc": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
+   "recall": 1.0,
+   "rr": 0.09090909090909091
+  },
+  {
+   "dataset": "contractnli",
+   "index": 193,
+   "doc": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 194,
+   "doc": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 195,
+   "doc": "contractnli/IPTK-CO-MutualNon-DisclosureAgreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 696,
+   "doc": "contractnli/sample-nrel-bilateral-nda-template.txt",
+   "recall": 0.7392592592592593,
+   "rr": 1.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 697,
+   "doc": "contractnli/sample-nrel-bilateral-nda-template.txt",
+   "recall": 1.0,
+   "rr": 0.16666666666666666
+  },
+  {
+   "dataset": "contractnli",
+   "index": 698,
+   "doc": "contractnli/sample-nrel-bilateral-nda-template.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 699,
+   "doc": "contractnli/sample-nrel-bilateral-nda-template.txt",
+   "recall": 0.6550335570469799,
+   "rr": 1.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 700,
+   "doc": "contractnli/sample-nrel-bilateral-nda-template.txt",
+   "recall": 1.0,
+   "rr": 0.16666666666666666
+  },
+  {
+   "dataset": "contractnli",
+   "index": 701,
+   "doc": "contractnli/sample-nrel-bilateral-nda-template.txt",
+   "recall": 0.6876876876876877,
+   "rr": 0.5
+  },
+  {
+   "dataset": "contractnli",
+   "index": 702,
+   "doc": "contractnli/sample-nrel-bilateral-nda-template.txt",
+   "recall": 0.7392592592592593,
+   "rr": 0.2
+  },
+  {
+   "dataset": "contractnli",
+   "index": 703,
+   "doc": "contractnli/sample-nrel-bilateral-nda-template.txt",
+   "recall": 0.47764227642276424,
+   "rr": 1.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 704,
+   "doc": "contractnli/sample-nrel-bilateral-nda-template.txt",
+   "recall": 1.0,
+   "rr": 0.5
+  },
+  {
+   "dataset": "contractnli",
+   "index": 705,
+   "doc": "contractnli/sample-nrel-bilateral-nda-template.txt",
+   "recall": 0.7899159663865546,
+   "rr": 0.125
+  },
+  {
+   "dataset": "contractnli",
+   "index": 706,
+   "doc": "contractnli/sample-nrel-bilateral-nda-template.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 707,
+   "doc": "contractnli/sample-nrel-bilateral-nda-template.txt",
+   "recall": 1.0,
+   "rr": 0.5
+  },
+  {
+   "dataset": "contractnli",
+   "index": 708,
+   "doc": "contractnli/sample-nrel-bilateral-nda-template.txt",
+   "recall": 1.0,
+   "rr": 0.2
+  },
+  {
+   "dataset": "contractnli",
+   "index": 114,
+   "doc": "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt",
+   "recall": 0.6761904761904762,
+   "rr": 1.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 115,
+   "doc": "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt",
+   "recall": 0.4288888888888889,
+   "rr": 0.1111111111111111
+  },
+  {
+   "dataset": "contractnli",
+   "index": 116,
+   "doc": "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt",
+   "recall": 0.7315068493150685,
+   "rr": 1.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 117,
+   "doc": "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt",
+   "recall": 1.0,
+   "rr": 1.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 118,
+   "doc": "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt",
+   "recall": 0.6761904761904762,
+   "rr": 1.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 119,
+   "doc": "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt",
+   "recall": 0.5545454545454546,
+   "rr": 0.25
+  },
+  {
+   "dataset": "contractnli",
+   "index": 120,
+   "doc": "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt",
+   "recall": 0.5545454545454546,
+   "rr": 0.16666666666666666
+  },
+  {
+   "dataset": "contractnli",
+   "index": 121,
+   "doc": "contractnli/Grindrod%20SA%20Confidentiality%20and%20Non-Disclosure%20Undertaking.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 145,
+   "doc": "contractnli/IBC-PMS-NDA-agreement.txt",
+   "recall": 0.9198113207547169,
+   "rr": 0.25
+  },
+  {
+   "dataset": "contractnli",
+   "index": 146,
+   "doc": "contractnli/IBC-PMS-NDA-agreement.txt",
+   "recall": 1.0,
+   "rr": 0.2
+  },
+  {
+   "dataset": "contractnli",
+   "index": 147,
+   "doc": "contractnli/IBC-PMS-NDA-agreement.txt",
+   "recall": 0.032362459546925564,
+   "rr": 0.1
+  },
+  {
+   "dataset": "contractnli",
+   "index": 148,
+   "doc": "contractnli/IBC-PMS-NDA-agreement.txt",
+   "recall": 0.5076142131979695,
+   "rr": 0.5
+  },
+  {
+   "dataset": "contractnli",
+   "index": 149,
+   "doc": "contractnli/IBC-PMS-NDA-agreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 150,
+   "doc": "contractnli/IBC-PMS-NDA-agreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 151,
+   "doc": "contractnli/IBC-PMS-NDA-agreement.txt",
+   "recall": 0.056074766355140186,
+   "rr": 1.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 152,
+   "doc": "contractnli/IBC-PMS-NDA-agreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 153,
+   "doc": "contractnli/IBC-PMS-NDA-agreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 154,
+   "doc": "contractnli/IBC-PMS-NDA-agreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 155,
+   "doc": "contractnli/IBC-PMS-NDA-agreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 156,
+   "doc": "contractnli/IBC-PMS-NDA-agreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 157,
+   "doc": "contractnli/IBC-PMS-NDA-agreement.txt",
+   "recall": 0.11685116851168512,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "contractnli",
+   "index": 294,
+   "doc": "contractnli/khronos-mutual-nda.txt",
+   "recall": 1.0,
+   "rr": 1.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 295,
+   "doc": "contractnli/khronos-mutual-nda.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 296,
+   "doc": "contractnli/khronos-mutual-nda.txt",
+   "recall": 1.0,
+   "rr": 1.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 297,
+   "doc": "contractnli/khronos-mutual-nda.txt",
+   "recall": 1.0,
+   "rr": 1.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 298,
+   "doc": "contractnli/khronos-mutual-nda.txt",
+   "recall": 0.848780487804878,
+   "rr": 1.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 299,
+   "doc": "contractnli/khronos-mutual-nda.txt",
+   "recall": 0.2689655172413793,
+   "rr": 0.2
+  },
+  {
+   "dataset": "contractnli",
+   "index": 300,
+   "doc": "contractnli/khronos-mutual-nda.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 301,
+   "doc": "contractnli/khronos-mutual-nda.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 302,
+   "doc": "contractnli/khronos-mutual-nda.txt",
+   "recall": 0.21787709497206703,
+   "rr": 0.2
+  },
+  {
+   "dataset": "contractnli",
+   "index": 933,
+   "doc": "contractnli/NDA_ResConnect.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 934,
+   "doc": "contractnli/NDA_ResConnect.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 935,
+   "doc": "contractnli/NDA_ResConnect.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 936,
+   "doc": "contractnli/NDA_ResConnect.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 937,
+   "doc": "contractnli/NDA_ResConnect.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 938,
+   "doc": "contractnli/NDA_ResConnect.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 939,
+   "doc": "contractnli/NDA_ResConnect.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 940,
+   "doc": "contractnli/NDA_ResConnect.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 941,
+   "doc": "contractnli/NDA_ResConnect.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 575,
+   "doc": "contractnli/SE_NDCA_and_PRE-QUAL_PACKAGE_March-2016.txt",
+   "recall": 0.9983416252072969,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "contractnli",
+   "index": 576,
+   "doc": "contractnli/SE_NDCA_and_PRE-QUAL_PACKAGE_March-2016.txt",
+   "recall": 1.0,
+   "rr": 1.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 577,
+   "doc": "contractnli/SE_NDCA_and_PRE-QUAL_PACKAGE_March-2016.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 578,
+   "doc": "contractnli/SE_NDCA_and_PRE-QUAL_PACKAGE_March-2016.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 579,
+   "doc": "contractnli/SE_NDCA_and_PRE-QUAL_PACKAGE_March-2016.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 580,
+   "doc": "contractnli/SE_NDCA_and_PRE-QUAL_PACKAGE_March-2016.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 581,
+   "doc": "contractnli/SE_NDCA_and_PRE-QUAL_PACKAGE_March-2016.txt",
+   "recall": 1.0,
+   "rr": 0.125
+  },
+  {
+   "dataset": "contractnli",
+   "index": 582,
+   "doc": "contractnli/SE_NDCA_and_PRE-QUAL_PACKAGE_March-2016.txt",
+   "recall": 0.8667953667953668,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "contractnli",
+   "index": 583,
+   "doc": "contractnli/SE_NDCA_and_PRE-QUAL_PACKAGE_March-2016.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 584,
+   "doc": "contractnli/SE_NDCA_and_PRE-QUAL_PACKAGE_March-2016.txt",
+   "recall": 0.9975308641975309,
+   "rr": 0.14285714285714285
+  },
+  {
+   "dataset": "contractnli",
+   "index": 585,
+   "doc": "contractnli/SE_NDCA_and_PRE-QUAL_PACKAGE_March-2016.txt",
+   "recall": 1.0,
+   "rr": 1.0
+  },
+  {
+   "dataset": "contractnli",
+   "index": 586,
+   "doc": "contractnli/SE_NDCA_and_PRE-QUAL_PACKAGE_March-2016.txt",
+   "recall": 1.0,
+   "rr": 0.14285714285714285
+  },
+  {
+   "dataset": "contractnli",
+   "index": 587,
+   "doc": "contractnli/SE_NDCA_and_PRE-QUAL_PACKAGE_March-2016.txt",
+   "recall": 0.21728395061728395,
+   "rr": 0.125
+  },
+  {
+   "dataset": "contractnli",
+   "index": 588,
+   "doc": "contractnli/SE_NDCA_and_PRE-QUAL_PACKAGE_March-2016.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1107,
+   "doc": "maud/Eidos Therapeutics, Inc._BridgeBio Pharma, Inc..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1108,
+   "doc": "maud/Eidos Therapeutics, Inc._BridgeBio Pharma, Inc..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1109,
+   "doc": "maud/Eidos Therapeutics, Inc._BridgeBio Pharma, Inc..txt",
+   "recall": 1.0,
+   "rr": 0.25
+  },
+  {
+   "dataset": "maud",
+   "index": 1110,
+   "doc": "maud/Eidos Therapeutics, Inc._BridgeBio Pharma, Inc..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1111,
+   "doc": "maud/Eidos Therapeutics, Inc._BridgeBio Pharma, Inc..txt",
+   "recall": 0.36578171091445427,
+   "rr": 0.1111111111111111
+  },
+  {
+   "dataset": "maud",
+   "index": 1112,
+   "doc": "maud/Eidos Therapeutics, Inc._BridgeBio Pharma, Inc..txt",
+   "recall": 0.3759512937595129,
+   "rr": 1.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1113,
+   "doc": "maud/Eidos Therapeutics, Inc._BridgeBio Pharma, Inc..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1114,
+   "doc": "maud/Eidos Therapeutics, Inc._BridgeBio Pharma, Inc..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1115,
+   "doc": "maud/Eidos Therapeutics, Inc._BridgeBio Pharma, Inc..txt",
+   "recall": 0.3797564687975647,
+   "rr": 0.125
+  },
+  {
+   "dataset": "maud",
+   "index": 881,
+   "doc": "maud/PNM Resources, Inc._Avangrid, Inc..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 882,
+   "doc": "maud/PNM Resources, Inc._Avangrid, Inc..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 883,
+   "doc": "maud/PNM Resources, Inc._Avangrid, Inc..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 884,
+   "doc": "maud/PNM Resources, Inc._Avangrid, Inc..txt",
+   "recall": 1.0,
+   "rr": 0.16666666666666666
+  },
+  {
+   "dataset": "maud",
+   "index": 885,
+   "doc": "maud/PNM Resources, Inc._Avangrid, Inc..txt",
+   "recall": 0.30383663366336633,
+   "rr": 0.2
+  },
+  {
+   "dataset": "maud",
+   "index": 886,
+   "doc": "maud/PNM Resources, Inc._Avangrid, Inc..txt",
+   "recall": 0.36436170212765956,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "maud",
+   "index": 887,
+   "doc": "maud/PNM Resources, Inc._Avangrid, Inc..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 888,
+   "doc": "maud/PNM Resources, Inc._Avangrid, Inc..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 889,
+   "doc": "maud/PNM Resources, Inc._Avangrid, Inc..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 890,
+   "doc": "maud/PNM Resources, Inc._Avangrid, Inc..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 674,
+   "doc": "maud/Kentucky_Bancshares_Stock_Yards_Bancorp.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 675,
+   "doc": "maud/Kentucky_Bancshares_Stock_Yards_Bancorp.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 676,
+   "doc": "maud/Kentucky_Bancshares_Stock_Yards_Bancorp.txt",
+   "recall": 0.12630998345284059,
+   "rr": 1.0
+  },
+  {
+   "dataset": "maud",
+   "index": 677,
+   "doc": "maud/Kentucky_Bancshares_Stock_Yards_Bancorp.txt",
+   "recall": 1.0,
+   "rr": 0.2
+  },
+  {
+   "dataset": "maud",
+   "index": 678,
+   "doc": "maud/Kentucky_Bancshares_Stock_Yards_Bancorp.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 679,
+   "doc": "maud/Kentucky_Bancshares_Stock_Yards_Bancorp.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 680,
+   "doc": "maud/Kentucky_Bancshares_Stock_Yards_Bancorp.txt",
+   "recall": 0.1018981018981019,
+   "rr": 0.5
+  },
+  {
+   "dataset": "maud",
+   "index": 681,
+   "doc": "maud/Kentucky_Bancshares_Stock_Yards_Bancorp.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 682,
+   "doc": "maud/Kentucky_Bancshares_Stock_Yards_Bancorp.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 683,
+   "doc": "maud/Kentucky_Bancshares_Stock_Yards_Bancorp.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 684,
+   "doc": "maud/Kentucky_Bancshares_Stock_Yards_Bancorp.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 685,
+   "doc": "maud/Kentucky_Bancshares_Stock_Yards_Bancorp.txt",
+   "recall": 0.8252911813643927,
+   "rr": 0.5
+  },
+  {
+   "dataset": "maud",
+   "index": 560,
+   "doc": "maud/Lonestar_Resources_US_Inc_Penn_Virginia_Corporation.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 561,
+   "doc": "maud/Lonestar_Resources_US_Inc_Penn_Virginia_Corporation.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 562,
+   "doc": "maud/Lonestar_Resources_US_Inc_Penn_Virginia_Corporation.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 563,
+   "doc": "maud/Lonestar_Resources_US_Inc_Penn_Virginia_Corporation.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 564,
+   "doc": "maud/Lonestar_Resources_US_Inc_Penn_Virginia_Corporation.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 565,
+   "doc": "maud/Lonestar_Resources_US_Inc_Penn_Virginia_Corporation.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 566,
+   "doc": "maud/Lonestar_Resources_US_Inc_Penn_Virginia_Corporation.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 567,
+   "doc": "maud/Lonestar_Resources_US_Inc_Penn_Virginia_Corporation.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 568,
+   "doc": "maud/Lonestar_Resources_US_Inc_Penn_Virginia_Corporation.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 569,
+   "doc": "maud/Lonestar_Resources_US_Inc_Penn_Virginia_Corporation.txt",
+   "recall": 0.7673343605546995,
+   "rr": 0.2
+  },
+  {
+   "dataset": "maud",
+   "index": 118,
+   "doc": "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 119,
+   "doc": "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 120,
+   "doc": "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt",
+   "recall": 0.11978221415607986,
+   "rr": 0.5
+  },
+  {
+   "dataset": "maud",
+   "index": 121,
+   "doc": "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt",
+   "recall": 1.0,
+   "rr": 0.25
+  },
+  {
+   "dataset": "maud",
+   "index": 122,
+   "doc": "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 123,
+   "doc": "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 124,
+   "doc": "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt",
+   "recall": 0.06325910931174089,
+   "rr": 0.09090909090909091
+  },
+  {
+   "dataset": "maud",
+   "index": 125,
+   "doc": "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 126,
+   "doc": "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 127,
+   "doc": "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 128,
+   "doc": "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt",
+   "recall": 1.0,
+   "rr": 0.25
+  },
+  {
+   "dataset": "maud",
+   "index": 129,
+   "doc": "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 130,
+   "doc": "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 131,
+   "doc": "maud/Bank of Commerce Holdings_Columbia Banking System, Inc..txt",
+   "recall": 1.0,
+   "rr": 0.1
+  },
+  {
+   "dataset": "maud",
+   "index": 21,
+   "doc": "maud/Inovalon_Holdings_Management_Led_Buyout.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 22,
+   "doc": "maud/Inovalon_Holdings_Management_Led_Buyout.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 23,
+   "doc": "maud/Inovalon_Holdings_Management_Led_Buyout.txt",
+   "recall": 0.989010989010989,
+   "rr": 0.25
+  },
+  {
+   "dataset": "maud",
+   "index": 24,
+   "doc": "maud/Inovalon_Holdings_Management_Led_Buyout.txt",
+   "recall": 0.010420409629895796,
+   "rr": 0.14285714285714285
+  },
+  {
+   "dataset": "maud",
+   "index": 25,
+   "doc": "maud/Inovalon_Holdings_Management_Led_Buyout.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 26,
+   "doc": "maud/Inovalon_Holdings_Management_Led_Buyout.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 27,
+   "doc": "maud/Inovalon_Holdings_Management_Led_Buyout.txt",
+   "recall": 0.4492753623188406,
+   "rr": 0.16666666666666666
+  },
+  {
+   "dataset": "maud",
+   "index": 11,
+   "doc": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 12,
+   "doc": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 13,
+   "doc": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
+   "recall": 0.9873015873015873,
+   "rr": 0.5
+  },
+  {
+   "dataset": "maud",
+   "index": 14,
+   "doc": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 15,
+   "doc": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
+   "recall": 0.20522388059701493,
+   "rr": 0.5
+  },
+  {
+   "dataset": "maud",
+   "index": 16,
+   "doc": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
+   "recall": 0.27491601343784994,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "maud",
+   "index": 17,
+   "doc": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 18,
+   "doc": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 19,
+   "doc": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
+   "recall": 0.6440235140431091,
+   "rr": 0.2
+  },
+  {
+   "dataset": "maud",
+   "index": 20,
+   "doc": "maud/TIFFANY_&_CO._LVMH_MO\u00cbT_HENNESSY-LOUIS_VUITTON.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 299,
+   "doc": "maud/Extended Stay America, Inc._Investment Group.pdf||Extended Stay America, Inc._Investment Group Amendment No. 1.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 300,
+   "doc": "maud/Extended Stay America, Inc._Investment Group.pdf||Extended Stay America, Inc._Investment Group Amendment No. 1.txt",
+   "recall": 0.4896073903002309,
+   "rr": 0.14285714285714285
+  },
+  {
+   "dataset": "maud",
+   "index": 301,
+   "doc": "maud/Extended Stay America, Inc._Investment Group.pdf||Extended Stay America, Inc._Investment Group Amendment No. 1.txt",
+   "recall": 1.0,
+   "rr": 1.0
+  },
+  {
+   "dataset": "maud",
+   "index": 302,
+   "doc": "maud/Extended Stay America, Inc._Investment Group.pdf||Extended Stay America, Inc._Investment Group Amendment No. 1.txt",
+   "recall": 0.09971098265895954,
+   "rr": 0.2
+  },
+  {
+   "dataset": "maud",
+   "index": 303,
+   "doc": "maud/Extended Stay America, Inc._Investment Group.pdf||Extended Stay America, Inc._Investment Group Amendment No. 1.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 304,
+   "doc": "maud/Extended Stay America, Inc._Investment Group.pdf||Extended Stay America, Inc._Investment Group Amendment No. 1.txt",
+   "recall": 0.17588298251872994,
+   "rr": 0.1
+  },
+  {
+   "dataset": "maud",
+   "index": 305,
+   "doc": "maud/Extended Stay America, Inc._Investment Group.pdf||Extended Stay America, Inc._Investment Group Amendment No. 1.txt",
+   "recall": 0.2288202692003167,
+   "rr": 0.5
+  },
+  {
+   "dataset": "maud",
+   "index": 306,
+   "doc": "maud/Extended Stay America, Inc._Investment Group.pdf||Extended Stay America, Inc._Investment Group Amendment No. 1.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 307,
+   "doc": "maud/Extended Stay America, Inc._Investment Group.pdf||Extended Stay America, Inc._Investment Group Amendment No. 1.txt",
+   "recall": 0.21834862385321102,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "maud",
+   "index": 308,
+   "doc": "maud/Extended Stay America, Inc._Investment Group.pdf||Extended Stay America, Inc._Investment Group Amendment No. 1.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 309,
+   "doc": "maud/Extended Stay America, Inc._Investment Group.pdf||Extended Stay America, Inc._Investment Group Amendment No. 1.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 310,
+   "doc": "maud/Extended Stay America, Inc._Investment Group.pdf||Extended Stay America, Inc._Investment Group Amendment No. 1.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 311,
+   "doc": "maud/Extended Stay America, Inc._Investment Group.pdf||Extended Stay America, Inc._Investment Group Amendment No. 1.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 238,
+   "doc": "maud/Community Bankers Trust Corporation_United Bankshares, Inc..txt",
+   "recall": 0.9984472049689441,
+   "rr": 1.0
+  },
+  {
+   "dataset": "maud",
+   "index": 239,
+   "doc": "maud/Community Bankers Trust Corporation_United Bankshares, Inc..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 240,
+   "doc": "maud/Community Bankers Trust Corporation_United Bankshares, Inc..txt",
+   "recall": 0.2871631411185164,
+   "rr": 1.0
+  },
+  {
+   "dataset": "maud",
+   "index": 241,
+   "doc": "maud/Community Bankers Trust Corporation_United Bankshares, Inc..txt",
+   "recall": 0.9805825242718447,
+   "rr": 1.0
+  },
+  {
+   "dataset": "maud",
+   "index": 242,
+   "doc": "maud/Community Bankers Trust Corporation_United Bankshares, Inc..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 243,
+   "doc": "maud/Community Bankers Trust Corporation_United Bankshares, Inc..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 244,
+   "doc": "maud/Community Bankers Trust Corporation_United Bankshares, Inc..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 245,
+   "doc": "maud/Community Bankers Trust Corporation_United Bankshares, Inc..txt",
+   "recall": 0.20432692307692307,
+   "rr": 1.0
+  },
+  {
+   "dataset": "maud",
+   "index": 246,
+   "doc": "maud/Community Bankers Trust Corporation_United Bankshares, Inc..txt",
+   "recall": 0.44265232974910396,
+   "rr": 0.1111111111111111
+  },
+  {
+   "dataset": "maud",
+   "index": 247,
+   "doc": "maud/Community Bankers Trust Corporation_United Bankshares, Inc..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 248,
+   "doc": "maud/Community Bankers Trust Corporation_United Bankshares, Inc..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1444,
+   "doc": "maud/WPX Energy, Inc._Devon Energy Corporation.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1445,
+   "doc": "maud/WPX Energy, Inc._Devon Energy Corporation.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1446,
+   "doc": "maud/WPX Energy, Inc._Devon Energy Corporation.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1447,
+   "doc": "maud/WPX Energy, Inc._Devon Energy Corporation.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1448,
+   "doc": "maud/WPX Energy, Inc._Devon Energy Corporation.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1449,
+   "doc": "maud/WPX Energy, Inc._Devon Energy Corporation.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1450,
+   "doc": "maud/WPX Energy, Inc._Devon Energy Corporation.txt",
+   "recall": 0.4494485294117647,
+   "rr": 0.16666666666666666
+  },
+  {
+   "dataset": "maud",
+   "index": 1451,
+   "doc": "maud/WPX Energy, Inc._Devon Energy Corporation.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1452,
+   "doc": "maud/WPX Energy, Inc._Devon Energy Corporation.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1453,
+   "doc": "maud/WPX Energy, Inc._Devon Energy Corporation.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1454,
+   "doc": "maud/WPX Energy, Inc._Devon Energy Corporation.txt",
+   "recall": 0.7638036809815951,
+   "rr": 0.25
+  },
+  {
+   "dataset": "maud",
+   "index": 1035,
+   "doc": "maud/VEREIT_Realty_Income_Corporation.pdf||VEREIT_Realty_Income_Corporation Amendment No.1.txt",
+   "recall": 0.3856812933025404,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "maud",
+   "index": 1036,
+   "doc": "maud/VEREIT_Realty_Income_Corporation.pdf||VEREIT_Realty_Income_Corporation Amendment No.1.txt",
+   "recall": 0.08772307030746077,
+   "rr": 1.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1037,
+   "doc": "maud/VEREIT_Realty_Income_Corporation.pdf||VEREIT_Realty_Income_Corporation Amendment No.1.txt",
+   "recall": 1.0,
+   "rr": 1.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1038,
+   "doc": "maud/VEREIT_Realty_Income_Corporation.pdf||VEREIT_Realty_Income_Corporation Amendment No.1.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1039,
+   "doc": "maud/VEREIT_Realty_Income_Corporation.pdf||VEREIT_Realty_Income_Corporation Amendment No.1.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1040,
+   "doc": "maud/VEREIT_Realty_Income_Corporation.pdf||VEREIT_Realty_Income_Corporation Amendment No.1.txt",
+   "recall": 0.2843478260869565,
+   "rr": 1.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1041,
+   "doc": "maud/VEREIT_Realty_Income_Corporation.pdf||VEREIT_Realty_Income_Corporation Amendment No.1.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1042,
+   "doc": "maud/VEREIT_Realty_Income_Corporation.pdf||VEREIT_Realty_Income_Corporation Amendment No.1.txt",
+   "recall": 0.5456545654565457,
+   "rr": 0.14285714285714285
+  },
+  {
+   "dataset": "maud",
+   "index": 1043,
+   "doc": "maud/VEREIT_Realty_Income_Corporation.pdf||VEREIT_Realty_Income_Corporation Amendment No.1.txt",
+   "recall": 0.2512588116817724,
+   "rr": 0.25
+  },
+  {
+   "dataset": "maud",
+   "index": 1044,
+   "doc": "maud/VEREIT_Realty_Income_Corporation.pdf||VEREIT_Realty_Income_Corporation Amendment No.1.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 964,
+   "doc": "maud/Select_Bancorp_Inc_First_Bancorp.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 965,
+   "doc": "maud/Select_Bancorp_Inc_First_Bancorp.txt",
+   "recall": 0.22477477477477478,
+   "rr": 0.2
+  },
+  {
+   "dataset": "maud",
+   "index": 966,
+   "doc": "maud/Select_Bancorp_Inc_First_Bancorp.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 967,
+   "doc": "maud/Select_Bancorp_Inc_First_Bancorp.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 968,
+   "doc": "maud/Select_Bancorp_Inc_First_Bancorp.txt",
+   "recall": 0.22416169039963252,
+   "rr": 1.0
+  },
+  {
+   "dataset": "maud",
+   "index": 969,
+   "doc": "maud/Select_Bancorp_Inc_First_Bancorp.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 970,
+   "doc": "maud/Select_Bancorp_Inc_First_Bancorp.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 971,
+   "doc": "maud/Select_Bancorp_Inc_First_Bancorp.txt",
+   "recall": 0.37462006079027355,
+   "rr": 0.5
+  },
+  {
+   "dataset": "maud",
+   "index": 972,
+   "doc": "maud/Select_Bancorp_Inc_First_Bancorp.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 973,
+   "doc": "maud/Select_Bancorp_Inc_First_Bancorp.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 974,
+   "doc": "maud/Select_Bancorp_Inc_First_Bancorp.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1157,
+   "doc": "maud/HighPoint Resources Corporation_Bonanza Creek Energy, Inc..pdf||HighPoint Resources Corporation_Bonanza Creek Energy, Inc. Amendment No. 1.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1158,
+   "doc": "maud/HighPoint Resources Corporation_Bonanza Creek Energy, Inc..pdf||HighPoint Resources Corporation_Bonanza Creek Energy, Inc. Amendment No. 1.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1159,
+   "doc": "maud/HighPoint Resources Corporation_Bonanza Creek Energy, Inc..pdf||HighPoint Resources Corporation_Bonanza Creek Energy, Inc. Amendment No. 1.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1160,
+   "doc": "maud/HighPoint Resources Corporation_Bonanza Creek Energy, Inc..pdf||HighPoint Resources Corporation_Bonanza Creek Energy, Inc. Amendment No. 1.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1161,
+   "doc": "maud/HighPoint Resources Corporation_Bonanza Creek Energy, Inc..pdf||HighPoint Resources Corporation_Bonanza Creek Energy, Inc. Amendment No. 1.txt",
+   "recall": 0.7551299589603283,
+   "rr": 0.1111111111111111
+  },
+  {
+   "dataset": "maud",
+   "index": 1162,
+   "doc": "maud/HighPoint Resources Corporation_Bonanza Creek Energy, Inc..pdf||HighPoint Resources Corporation_Bonanza Creek Energy, Inc. Amendment No. 1.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1163,
+   "doc": "maud/HighPoint Resources Corporation_Bonanza Creek Energy, Inc..pdf||HighPoint Resources Corporation_Bonanza Creek Energy, Inc. Amendment No. 1.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1164,
+   "doc": "maud/HighPoint Resources Corporation_Bonanza Creek Energy, Inc..pdf||HighPoint Resources Corporation_Bonanza Creek Energy, Inc. Amendment No. 1.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1165,
+   "doc": "maud/HighPoint Resources Corporation_Bonanza Creek Energy, Inc..pdf||HighPoint Resources Corporation_Bonanza Creek Energy, Inc. Amendment No. 1.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1166,
+   "doc": "maud/HighPoint Resources Corporation_Bonanza Creek Energy, Inc..pdf||HighPoint Resources Corporation_Bonanza Creek Energy, Inc. Amendment No. 1.txt",
+   "recall": 0.5605889014722537,
+   "rr": 0.2
+  },
+  {
+   "dataset": "maud",
+   "index": 1201,
+   "doc": "maud/DSP_Group_Synaptics_Incorporated.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1202,
+   "doc": "maud/DSP_Group_Synaptics_Incorporated.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1203,
+   "doc": "maud/DSP_Group_Synaptics_Incorporated.txt",
+   "recall": 1.0,
+   "rr": 1.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1204,
+   "doc": "maud/DSP_Group_Synaptics_Incorporated.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1205,
+   "doc": "maud/DSP_Group_Synaptics_Incorporated.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1206,
+   "doc": "maud/DSP_Group_Synaptics_Incorporated.txt",
+   "recall": 0.024398178269355888,
+   "rr": 0.1
+  },
+  {
+   "dataset": "maud",
+   "index": 1207,
+   "doc": "maud/DSP_Group_Synaptics_Incorporated.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1208,
+   "doc": "maud/DSP_Group_Synaptics_Incorporated.txt",
+   "recall": 0.09147286821705426,
+   "rr": 0.16666666666666666
+  },
+  {
+   "dataset": "maud",
+   "index": 1209,
+   "doc": "maud/DSP_Group_Synaptics_Incorporated.txt",
+   "recall": 0.11962025316455696,
+   "rr": 0.1111111111111111
+  },
+  {
+   "dataset": "maud",
+   "index": 1210,
+   "doc": "maud/DSP_Group_Synaptics_Incorporated.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1211,
+   "doc": "maud/DSP_Group_Synaptics_Incorporated.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1212,
+   "doc": "maud/DSP_Group_Synaptics_Incorporated.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1213,
+   "doc": "maud/DSP_Group_Synaptics_Incorporated.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1214,
+   "doc": "maud/DSP_Group_Synaptics_Incorporated.txt",
+   "recall": 0.3570887035633055,
+   "rr": 1.0
+  },
+  {
+   "dataset": "maud",
+   "index": 814,
+   "doc": "maud/QAD Inc._Thoma Bravo, L.P..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 815,
+   "doc": "maud/QAD Inc._Thoma Bravo, L.P..txt",
+   "recall": 0.5438247011952191,
+   "rr": 0.125
+  },
+  {
+   "dataset": "maud",
+   "index": 816,
+   "doc": "maud/QAD Inc._Thoma Bravo, L.P..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 817,
+   "doc": "maud/QAD Inc._Thoma Bravo, L.P..txt",
+   "recall": 1.0,
+   "rr": 0.14285714285714285
+  },
+  {
+   "dataset": "maud",
+   "index": 818,
+   "doc": "maud/QAD Inc._Thoma Bravo, L.P..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 819,
+   "doc": "maud/QAD Inc._Thoma Bravo, L.P..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 820,
+   "doc": "maud/QAD Inc._Thoma Bravo, L.P..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 821,
+   "doc": "maud/QAD Inc._Thoma Bravo, L.P..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 822,
+   "doc": "maud/QAD Inc._Thoma Bravo, L.P..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 823,
+   "doc": "maud/QAD Inc._Thoma Bravo, L.P..txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1175,
+   "doc": "maud/Medallia_Inc_Thoma_Bravo_L_P.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1176,
+   "doc": "maud/Medallia_Inc_Thoma_Bravo_L_P.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1177,
+   "doc": "maud/Medallia_Inc_Thoma_Bravo_L_P.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1178,
+   "doc": "maud/Medallia_Inc_Thoma_Bravo_L_P.txt",
+   "recall": 0.5165421558164355,
+   "rr": 0.16666666666666666
+  },
+  {
+   "dataset": "maud",
+   "index": 1179,
+   "doc": "maud/Medallia_Inc_Thoma_Bravo_L_P.txt",
+   "recall": 0.01215323645970938,
+   "rr": 0.25
+  },
+  {
+   "dataset": "maud",
+   "index": 1180,
+   "doc": "maud/Medallia_Inc_Thoma_Bravo_L_P.txt",
+   "recall": 0.5770567786790266,
+   "rr": 0.5
+  },
+  {
+   "dataset": "maud",
+   "index": 1181,
+   "doc": "maud/Medallia_Inc_Thoma_Bravo_L_P.txt",
+   "recall": 0.04149797570850203,
+   "rr": 0.08333333333333333
+  },
+  {
+   "dataset": "maud",
+   "index": 1182,
+   "doc": "maud/Medallia_Inc_Thoma_Bravo_L_P.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 1183,
+   "doc": "maud/Medallia_Inc_Thoma_Bravo_L_P.txt",
+   "recall": 0.10677212061295106,
+   "rr": 0.1111111111111111
+  },
+  {
+   "dataset": "maud",
+   "index": 1184,
+   "doc": "maud/Medallia_Inc_Thoma_Bravo_L_P.txt",
+   "recall": 0.025210084033613446,
+   "rr": 0.125
+  },
+  {
+   "dataset": "maud",
+   "index": 525,
+   "doc": "maud/FLIR Systems, Inc._Teledyne Technologies Incorporated.txt",
+   "recall": 0.06770833333333333,
+   "rr": 0.1
+  },
+  {
+   "dataset": "maud",
+   "index": 526,
+   "doc": "maud/FLIR Systems, Inc._Teledyne Technologies Incorporated.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 527,
+   "doc": "maud/FLIR Systems, Inc._Teledyne Technologies Incorporated.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 528,
+   "doc": "maud/FLIR Systems, Inc._Teledyne Technologies Incorporated.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 529,
+   "doc": "maud/FLIR Systems, Inc._Teledyne Technologies Incorporated.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 530,
+   "doc": "maud/FLIR Systems, Inc._Teledyne Technologies Incorporated.txt",
+   "recall": 0.23465703971119134,
+   "rr": 0.09090909090909091
+  },
+  {
+   "dataset": "maud",
+   "index": 531,
+   "doc": "maud/FLIR Systems, Inc._Teledyne Technologies Incorporated.txt",
+   "recall": 0.31902626521460603,
+   "rr": 0.1111111111111111
+  },
+  {
+   "dataset": "maud",
+   "index": 532,
+   "doc": "maud/FLIR Systems, Inc._Teledyne Technologies Incorporated.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 533,
+   "doc": "maud/FLIR Systems, Inc._Teledyne Technologies Incorporated.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 534,
+   "doc": "maud/FLIR Systems, Inc._Teledyne Technologies Incorporated.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 535,
+   "doc": "maud/FLIR Systems, Inc._Teledyne Technologies Incorporated.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 441,
+   "doc": "maud/Adamas_Pharmaceuticals_Supernus_Pharmaceuticals.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 442,
+   "doc": "maud/Adamas_Pharmaceuticals_Supernus_Pharmaceuticals.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 443,
+   "doc": "maud/Adamas_Pharmaceuticals_Supernus_Pharmaceuticals.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 444,
+   "doc": "maud/Adamas_Pharmaceuticals_Supernus_Pharmaceuticals.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 445,
+   "doc": "maud/Adamas_Pharmaceuticals_Supernus_Pharmaceuticals.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 446,
+   "doc": "maud/Adamas_Pharmaceuticals_Supernus_Pharmaceuticals.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 447,
+   "doc": "maud/Adamas_Pharmaceuticals_Supernus_Pharmaceuticals.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 448,
+   "doc": "maud/Adamas_Pharmaceuticals_Supernus_Pharmaceuticals.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 449,
+   "doc": "maud/Adamas_Pharmaceuticals_Supernus_Pharmaceuticals.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 450,
+   "doc": "maud/Adamas_Pharmaceuticals_Supernus_Pharmaceuticals.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "maud",
+   "index": 451,
+   "doc": "maud/Adamas_Pharmaceuticals_Supernus_Pharmaceuticals.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 1538,
+   "doc": "cuad/GluMobileInc_20070319_S-1A_EX-10.09_436630_EX-10.09_Content License Agreement4.txt",
+   "recall": 1.0,
+   "rr": 0.08333333333333333
+  },
+  {
+   "dataset": "cuad",
+   "index": 1866,
+   "doc": "cuad/BICYCLETHERAPEUTICSPLC_03_10_2020-EX-10.11-SERVICE AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 1867,
+   "doc": "cuad/BICYCLETHERAPEUTICSPLC_03_10_2020-EX-10.11-SERVICE AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 1868,
+   "doc": "cuad/BICYCLETHERAPEUTICSPLC_03_10_2020-EX-10.11-SERVICE AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 1869,
+   "doc": "cuad/BICYCLETHERAPEUTICSPLC_03_10_2020-EX-10.11-SERVICE AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 1870,
+   "doc": "cuad/BICYCLETHERAPEUTICSPLC_03_10_2020-EX-10.11-SERVICE AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 3007,
+   "doc": "cuad/HPILHOLDING_01_07_2015-EX-99.1-COOPERATION AGREEMENT.txt",
+   "recall": 1.0,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "cuad",
+   "index": 3008,
+   "doc": "cuad/HPILHOLDING_01_07_2015-EX-99.1-COOPERATION AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 3009,
+   "doc": "cuad/HPILHOLDING_01_07_2015-EX-99.1-COOPERATION AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 3010,
+   "doc": "cuad/HPILHOLDING_01_07_2015-EX-99.1-COOPERATION AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 3011,
+   "doc": "cuad/HPILHOLDING_01_07_2015-EX-99.1-COOPERATION AGREEMENT.txt",
+   "recall": 0.9606879606879607,
+   "rr": 0.5
+  },
+  {
+   "dataset": "cuad",
+   "index": 682,
+   "doc": "cuad/ArcGroupInc_20171211_8-K_EX-10.1_10976103_EX-10.1_Sponsorship Agreement.txt",
+   "recall": 0.9970588235294118,
+   "rr": 0.5
+  },
+  {
+   "dataset": "cuad",
+   "index": 683,
+   "doc": "cuad/ArcGroupInc_20171211_8-K_EX-10.1_10976103_EX-10.1_Sponsorship Agreement.txt",
+   "recall": 0.6257901390644753,
+   "rr": 0.5
+  },
+  {
+   "dataset": "cuad",
+   "index": 1885,
+   "doc": "cuad/THERAVANCEBIOPHARMA,INC_05_08_2020-EX-10.2-SERVICE AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 1886,
+   "doc": "cuad/THERAVANCEBIOPHARMA,INC_05_08_2020-EX-10.2-SERVICE AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 1887,
+   "doc": "cuad/THERAVANCEBIOPHARMA,INC_05_08_2020-EX-10.2-SERVICE AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 1888,
+   "doc": "cuad/THERAVANCEBIOPHARMA,INC_05_08_2020-EX-10.2-SERVICE AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 1889,
+   "doc": "cuad/THERAVANCEBIOPHARMA,INC_05_08_2020-EX-10.2-SERVICE AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 1890,
+   "doc": "cuad/THERAVANCEBIOPHARMA,INC_05_08_2020-EX-10.2-SERVICE AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 1891,
+   "doc": "cuad/THERAVANCEBIOPHARMA,INC_05_08_2020-EX-10.2-SERVICE AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 1897,
+   "doc": "cuad/CANOPETROLEUM,INC_12_13_2007-EX-10.1-Sponsorship Agreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 1898,
+   "doc": "cuad/CANOPETROLEUM,INC_12_13_2007-EX-10.1-Sponsorship Agreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 1899,
+   "doc": "cuad/CANOPETROLEUM,INC_12_13_2007-EX-10.1-Sponsorship Agreement.txt",
+   "recall": 1.0,
+   "rr": 0.09090909090909091
+  },
+  {
+   "dataset": "cuad",
+   "index": 1900,
+   "doc": "cuad/CANOPETROLEUM,INC_12_13_2007-EX-10.1-Sponsorship Agreement.txt",
+   "recall": 1.0,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "cuad",
+   "index": 2019,
+   "doc": "cuad/VITAMINSHOPPECOMINC_09_13_1999-EX-10.26-SPONSORSHIP AGREEMENT.txt",
+   "recall": 0.775206611570248,
+   "rr": 0.5
+  },
+  {
+   "dataset": "cuad",
+   "index": 2020,
+   "doc": "cuad/VITAMINSHOPPECOMINC_09_13_1999-EX-10.26-SPONSORSHIP AGREEMENT.txt",
+   "recall": 1.0,
+   "rr": 1.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2021,
+   "doc": "cuad/VITAMINSHOPPECOMINC_09_13_1999-EX-10.26-SPONSORSHIP AGREEMENT.txt",
+   "recall": 0.5149812734082397,
+   "rr": 0.2
+  },
+  {
+   "dataset": "cuad",
+   "index": 2022,
+   "doc": "cuad/VITAMINSHOPPECOMINC_09_13_1999-EX-10.26-SPONSORSHIP AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2023,
+   "doc": "cuad/VITAMINSHOPPECOMINC_09_13_1999-EX-10.26-SPONSORSHIP AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2755,
+   "doc": "cuad/DUOSTECHNOLOGIESGROUP,INC_04_21_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.txt",
+   "recall": 0.3326488706365503,
+   "rr": 0.16666666666666666
+  },
+  {
+   "dataset": "cuad",
+   "index": 2756,
+   "doc": "cuad/DUOSTECHNOLOGIESGROUP,INC_04_21_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.txt",
+   "recall": 0.3326488706365503,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "cuad",
+   "index": 2757,
+   "doc": "cuad/DUOSTECHNOLOGIESGROUP,INC_04_21_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.txt",
+   "recall": 0.997946611909651,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "cuad",
+   "index": 2758,
+   "doc": "cuad/DUOSTECHNOLOGIESGROUP,INC_04_21_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2759,
+   "doc": "cuad/DUOSTECHNOLOGIESGROUP,INC_04_21_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.txt",
+   "recall": 0.3644859813084112,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "cuad",
+   "index": 2760,
+   "doc": "cuad/DUOSTECHNOLOGIESGROUP,INC_04_21_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.txt",
+   "recall": 0.8811188811188811,
+   "rr": 0.5
+  },
+  {
+   "dataset": "cuad",
+   "index": 2761,
+   "doc": "cuad/DUOSTECHNOLOGIESGROUP,INC_04_21_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.txt",
+   "recall": 0.5675965665236051,
+   "rr": 0.25
+  },
+  {
+   "dataset": "cuad",
+   "index": 2762,
+   "doc": "cuad/DUOSTECHNOLOGIESGROUP,INC_04_21_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.txt",
+   "recall": 0.7829457364341085,
+   "rr": 1.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2763,
+   "doc": "cuad/DUOSTECHNOLOGIESGROUP,INC_04_21_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2764,
+   "doc": "cuad/DUOSTECHNOLOGIESGROUP,INC_04_21_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.txt",
+   "recall": 0.9979338842975206,
+   "rr": 0.5
+  },
+  {
+   "dataset": "cuad",
+   "index": 2765,
+   "doc": "cuad/DUOSTECHNOLOGIESGROUP,INC_04_21_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.txt",
+   "recall": 0.7124653739612188,
+   "rr": 0.16666666666666666
+  },
+  {
+   "dataset": "cuad",
+   "index": 2766,
+   "doc": "cuad/DUOSTECHNOLOGIESGROUP,INC_04_21_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.txt",
+   "recall": 0.9989281886387996,
+   "rr": 0.5
+  },
+  {
+   "dataset": "cuad",
+   "index": 2767,
+   "doc": "cuad/DUOSTECHNOLOGIESGROUP,INC_04_21_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.txt",
+   "recall": 0.5680600214362272,
+   "rr": 1.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2768,
+   "doc": "cuad/DUOSTECHNOLOGIESGROUP,INC_04_21_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2769,
+   "doc": "cuad/DUOSTECHNOLOGIESGROUP,INC_04_21_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.txt",
+   "recall": 0.3387096774193548,
+   "rr": 0.5
+  },
+  {
+   "dataset": "cuad",
+   "index": 2770,
+   "doc": "cuad/DUOSTECHNOLOGIESGROUP,INC_04_21_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.txt",
+   "recall": 0.3393177737881508,
+   "rr": 0.5
+  },
+  {
+   "dataset": "cuad",
+   "index": 2771,
+   "doc": "cuad/DUOSTECHNOLOGIESGROUP,INC_04_21_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.txt",
+   "recall": 0.33004926108374383,
+   "rr": 0.25
+  },
+  {
+   "dataset": "cuad",
+   "index": 2772,
+   "doc": "cuad/DUOSTECHNOLOGIESGROUP,INC_04_21_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.txt",
+   "recall": 0.7327188940092166,
+   "rr": 0.5
+  },
+  {
+   "dataset": "cuad",
+   "index": 2272,
+   "doc": "cuad/FLOTEKINDUSTRIESINCCN_05_09_2019-EX-10.1-SUPPLY AGREEMENT.txt",
+   "recall": 1.0,
+   "rr": 0.5
+  },
+  {
+   "dataset": "cuad",
+   "index": 2273,
+   "doc": "cuad/FLOTEKINDUSTRIESINCCN_05_09_2019-EX-10.1-SUPPLY AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2274,
+   "doc": "cuad/FLOTEKINDUSTRIESINCCN_05_09_2019-EX-10.1-SUPPLY AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2275,
+   "doc": "cuad/FLOTEKINDUSTRIESINCCN_05_09_2019-EX-10.1-SUPPLY AGREEMENT.txt",
+   "recall": 0.25383542538354253,
+   "rr": 0.16666666666666666
+  },
+  {
+   "dataset": "cuad",
+   "index": 2276,
+   "doc": "cuad/FLOTEKINDUSTRIESINCCN_05_09_2019-EX-10.1-SUPPLY AGREEMENT.txt",
+   "recall": 1.0,
+   "rr": 1.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2277,
+   "doc": "cuad/FLOTEKINDUSTRIESINCCN_05_09_2019-EX-10.1-SUPPLY AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2278,
+   "doc": "cuad/FLOTEKINDUSTRIESINCCN_05_09_2019-EX-10.1-SUPPLY AGREEMENT.txt",
+   "recall": 1.0,
+   "rr": 0.1111111111111111
+  },
+  {
+   "dataset": "cuad",
+   "index": 2373,
+   "doc": "cuad/PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2374,
+   "doc": "cuad/PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt",
+   "recall": 0.28714965626652567,
+   "rr": 0.2
+  },
+  {
+   "dataset": "cuad",
+   "index": 2375,
+   "doc": "cuad/PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt",
+   "recall": 0.1913265306122449,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "cuad",
+   "index": 2376,
+   "doc": "cuad/PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt",
+   "recall": 0.22742010189902734,
+   "rr": 0.14285714285714285
+  },
+  {
+   "dataset": "cuad",
+   "index": 2377,
+   "doc": "cuad/PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt",
+   "recall": 0.43853820598006643,
+   "rr": 0.16666666666666666
+  },
+  {
+   "dataset": "cuad",
+   "index": 2292,
+   "doc": "cuad/DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT.txt",
+   "recall": 1.0,
+   "rr": 0.5
+  },
+  {
+   "dataset": "cuad",
+   "index": 2293,
+   "doc": "cuad/DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2294,
+   "doc": "cuad/DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2295,
+   "doc": "cuad/DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2296,
+   "doc": "cuad/DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2297,
+   "doc": "cuad/DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT.txt",
+   "recall": 1.0,
+   "rr": 1.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2298,
+   "doc": "cuad/DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2299,
+   "doc": "cuad/DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT.txt",
+   "recall": 1.0,
+   "rr": 1.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2300,
+   "doc": "cuad/DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2301,
+   "doc": "cuad/DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2302,
+   "doc": "cuad/DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2303,
+   "doc": "cuad/DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2304,
+   "doc": "cuad/DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT.txt",
+   "recall": 0.19917203311867526,
+   "rr": 0.14285714285714285
+  },
+  {
+   "dataset": "cuad",
+   "index": 251,
+   "doc": "cuad/RgcResourcesInc_20151216_8-K_EX-10.3_9372751_EX-10.3_Franchise Agreement.txt",
+   "recall": 1.0,
+   "rr": 0.125
+  },
+  {
+   "dataset": "cuad",
+   "index": 252,
+   "doc": "cuad/RgcResourcesInc_20151216_8-K_EX-10.3_9372751_EX-10.3_Franchise Agreement.txt",
+   "recall": 0.9574829931972789,
+   "rr": 0.2
+  },
+  {
+   "dataset": "cuad",
+   "index": 2532,
+   "doc": "cuad/PcquoteComInc_19990721_S-1A_EX-10.11_6377149_EX-10.11_Co-Branding Agreement1.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2533,
+   "doc": "cuad/PcquoteComInc_19990721_S-1A_EX-10.11_6377149_EX-10.11_Co-Branding Agreement1.txt",
+   "recall": 1.0,
+   "rr": 0.5
+  },
+  {
+   "dataset": "cuad",
+   "index": 2534,
+   "doc": "cuad/PcquoteComInc_19990721_S-1A_EX-10.11_6377149_EX-10.11_Co-Branding Agreement1.txt",
+   "recall": 1.0,
+   "rr": 1.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2535,
+   "doc": "cuad/PcquoteComInc_19990721_S-1A_EX-10.11_6377149_EX-10.11_Co-Branding Agreement1.txt",
+   "recall": 0.9987745098039216,
+   "rr": 0.5
+  },
+  {
+   "dataset": "cuad",
+   "index": 2497,
+   "doc": "cuad/KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2498,
+   "doc": "cuad/KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2499,
+   "doc": "cuad/KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2500,
+   "doc": "cuad/KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2501,
+   "doc": "cuad/KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT.txt",
+   "recall": 1.0,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "cuad",
+   "index": 2502,
+   "doc": "cuad/KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT.txt",
+   "recall": 0.38900323434284034,
+   "rr": 1.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2503,
+   "doc": "cuad/KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT.txt",
+   "recall": 0.625,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "cuad",
+   "index": 2504,
+   "doc": "cuad/KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT.txt",
+   "recall": 0.390646492434663,
+   "rr": 0.16666666666666666
+  },
+  {
+   "dataset": "cuad",
+   "index": 2505,
+   "doc": "cuad/KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT.txt",
+   "recall": 0.2145054945054945,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "cuad",
+   "index": 2506,
+   "doc": "cuad/KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT.txt",
+   "recall": 0.7872719181130396,
+   "rr": 1.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2507,
+   "doc": "cuad/KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT.txt",
+   "recall": 0.874328678839957,
+   "rr": 1.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2508,
+   "doc": "cuad/KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT.txt",
+   "recall": 1.0,
+   "rr": 1.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2509,
+   "doc": "cuad/KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT.txt",
+   "recall": 0.3616326530612245,
+   "rr": 0.5
+  },
+  {
+   "dataset": "cuad",
+   "index": 2510,
+   "doc": "cuad/KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2511,
+   "doc": "cuad/KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT.txt",
+   "recall": 0.2661619103086779,
+   "rr": 1.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2512,
+   "doc": "cuad/KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT.txt",
+   "recall": 0.49297971918876754,
+   "rr": 0.25
+  },
+  {
+   "dataset": "cuad",
+   "index": 780,
+   "doc": "cuad/PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 781,
+   "doc": "cuad/PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 782,
+   "doc": "cuad/PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 783,
+   "doc": "cuad/PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 784,
+   "doc": "cuad/PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 785,
+   "doc": "cuad/PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt",
+   "recall": 0.7653721682847896,
+   "rr": 0.09090909090909091
+  },
+  {
+   "dataset": "cuad",
+   "index": 786,
+   "doc": "cuad/PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt",
+   "recall": 1.0,
+   "rr": 0.5
+  },
+  {
+   "dataset": "cuad",
+   "index": 787,
+   "doc": "cuad/PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 788,
+   "doc": "cuad/PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 789,
+   "doc": "cuad/PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 1550,
+   "doc": "cuad/PapaJohnsInternationalInc_20190617_8-K_EX-10.1_11707365_EX-10.1_Endorsement Agreement.txt",
+   "recall": 1.0,
+   "rr": 0.25
+  },
+  {
+   "dataset": "cuad",
+   "index": 1551,
+   "doc": "cuad/PapaJohnsInternationalInc_20190617_8-K_EX-10.1_11707365_EX-10.1_Endorsement Agreement.txt",
+   "recall": 1.0,
+   "rr": 0.5
+  },
+  {
+   "dataset": "cuad",
+   "index": 1552,
+   "doc": "cuad/PapaJohnsInternationalInc_20190617_8-K_EX-10.1_11707365_EX-10.1_Endorsement Agreement.txt",
+   "recall": 1.0,
+   "rr": 1.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 1553,
+   "doc": "cuad/PapaJohnsInternationalInc_20190617_8-K_EX-10.1_11707365_EX-10.1_Endorsement Agreement.txt",
+   "recall": 0.649135446685879,
+   "rr": 0.25
+  },
+  {
+   "dataset": "cuad",
+   "index": 1554,
+   "doc": "cuad/PapaJohnsInternationalInc_20190617_8-K_EX-10.1_11707365_EX-10.1_Endorsement Agreement.txt",
+   "recall": 0.2903458213256484,
+   "rr": 0.125
+  },
+  {
+   "dataset": "cuad",
+   "index": 1555,
+   "doc": "cuad/PapaJohnsInternationalInc_20190617_8-K_EX-10.1_11707365_EX-10.1_Endorsement Agreement.txt",
+   "recall": 0.6517311608961304,
+   "rr": 0.1
+  },
+  {
+   "dataset": "cuad",
+   "index": 1556,
+   "doc": "cuad/PapaJohnsInternationalInc_20190617_8-K_EX-10.1_11707365_EX-10.1_Endorsement Agreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 1557,
+   "doc": "cuad/PapaJohnsInternationalInc_20190617_8-K_EX-10.1_11707365_EX-10.1_Endorsement Agreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 1558,
+   "doc": "cuad/PapaJohnsInternationalInc_20190617_8-K_EX-10.1_11707365_EX-10.1_Endorsement Agreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 1559,
+   "doc": "cuad/PapaJohnsInternationalInc_20190617_8-K_EX-10.1_11707365_EX-10.1_Endorsement Agreement.txt",
+   "recall": 0.4864864864864865,
+   "rr": 0.5
+  },
+  {
+   "dataset": "cuad",
+   "index": 1560,
+   "doc": "cuad/PapaJohnsInternationalInc_20190617_8-K_EX-10.1_11707365_EX-10.1_Endorsement Agreement.txt",
+   "recall": 0.7441860465116279,
+   "rr": 1.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 1561,
+   "doc": "cuad/PapaJohnsInternationalInc_20190617_8-K_EX-10.1_11707365_EX-10.1_Endorsement Agreement.txt",
+   "recall": 1.0,
+   "rr": 1.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 1562,
+   "doc": "cuad/PapaJohnsInternationalInc_20190617_8-K_EX-10.1_11707365_EX-10.1_Endorsement Agreement.txt",
+   "recall": 0.6086404066073697,
+   "rr": 1.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 1563,
+   "doc": "cuad/PapaJohnsInternationalInc_20190617_8-K_EX-10.1_11707365_EX-10.1_Endorsement Agreement.txt",
+   "recall": 0.29354838709677417,
+   "rr": 1.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 1564,
+   "doc": "cuad/PapaJohnsInternationalInc_20190617_8-K_EX-10.1_11707365_EX-10.1_Endorsement Agreement.txt",
+   "recall": 0.7304075235109718,
+   "rr": 0.5
+  },
+  {
+   "dataset": "cuad",
+   "index": 1565,
+   "doc": "cuad/PapaJohnsInternationalInc_20190617_8-K_EX-10.1_11707365_EX-10.1_Endorsement Agreement.txt",
+   "recall": 0.9629101283880172,
+   "rr": 0.5
+  },
+  {
+   "dataset": "cuad",
+   "index": 1566,
+   "doc": "cuad/PapaJohnsInternationalInc_20190617_8-K_EX-10.1_11707365_EX-10.1_Endorsement Agreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2678,
+   "doc": "cuad/ALCOSTORESINC_12_14_2005-EX-10.26-AGENCY AGREEMENT.txt",
+   "recall": 1.0,
+   "rr": 1.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2679,
+   "doc": "cuad/ALCOSTORESINC_12_14_2005-EX-10.26-AGENCY AGREEMENT.txt",
+   "recall": 0.6808118081180812,
+   "rr": 0.16666666666666666
+  },
+  {
+   "dataset": "cuad",
+   "index": 2680,
+   "doc": "cuad/ALCOSTORESINC_12_14_2005-EX-10.26-AGENCY AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2681,
+   "doc": "cuad/ALCOSTORESINC_12_14_2005-EX-10.26-AGENCY AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 3305,
+   "doc": "cuad/HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT.txt",
+   "recall": 0.9434782608695652,
+   "rr": 0.5
+  },
+  {
+   "dataset": "cuad",
+   "index": 3306,
+   "doc": "cuad/HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 3307,
+   "doc": "cuad/HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 3308,
+   "doc": "cuad/HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 3309,
+   "doc": "cuad/HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT.txt",
+   "recall": 1.0,
+   "rr": 1.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 3310,
+   "doc": "cuad/HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT.txt",
+   "recall": 1.0,
+   "rr": 1.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 3311,
+   "doc": "cuad/HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT.txt",
+   "recall": 1.0,
+   "rr": 0.2
+  },
+  {
+   "dataset": "cuad",
+   "index": 1026,
+   "doc": "cuad/UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 1027,
+   "doc": "cuad/UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 1028,
+   "doc": "cuad/UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 3613,
+   "doc": "cuad/ON2TECHNOLOGIES,INC_11_17_2006-EX-10.3-SUPPORT AND MAINTENANCE AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 3614,
+   "doc": "cuad/ON2TECHNOLOGIES,INC_11_17_2006-EX-10.3-SUPPORT AND MAINTENANCE AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 3615,
+   "doc": "cuad/ON2TECHNOLOGIES,INC_11_17_2006-EX-10.3-SUPPORT AND MAINTENANCE AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 3616,
+   "doc": "cuad/ON2TECHNOLOGIES,INC_11_17_2006-EX-10.3-SUPPORT AND MAINTENANCE AGREEMENT.txt",
+   "recall": 0.7716701902748414,
+   "rr": 1.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 3617,
+   "doc": "cuad/ON2TECHNOLOGIES,INC_11_17_2006-EX-10.3-SUPPORT AND MAINTENANCE AGREEMENT.txt",
+   "recall": 1.0,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "cuad",
+   "index": 51,
+   "doc": "cuad/DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19_Co-Branding Agreement_ Service Agreement.txt",
+   "recall": 0.8901515151515151,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "cuad",
+   "index": 52,
+   "doc": "cuad/DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19_Co-Branding Agreement_ Service Agreement.txt",
+   "recall": 1.0,
+   "rr": 0.5
+  },
+  {
+   "dataset": "cuad",
+   "index": 53,
+   "doc": "cuad/DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19_Co-Branding Agreement_ Service Agreement.txt",
+   "recall": 0.6628787878787878,
+   "rr": 0.09090909090909091
+  },
+  {
+   "dataset": "cuad",
+   "index": 54,
+   "doc": "cuad/DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19_Co-Branding Agreement_ Service Agreement.txt",
+   "recall": 0.9957983193277311,
+   "rr": 0.5
+  },
+  {
+   "dataset": "cuad",
+   "index": 55,
+   "doc": "cuad/DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19_Co-Branding Agreement_ Service Agreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 56,
+   "doc": "cuad/DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19_Co-Branding Agreement_ Service Agreement.txt",
+   "recall": 0.9979654120040692,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "cuad",
+   "index": 605,
+   "doc": "cuad/HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement.txt",
+   "recall": 0.19852941176470587,
+   "rr": 0.1
+  },
+  {
+   "dataset": "cuad",
+   "index": 606,
+   "doc": "cuad/HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement.txt",
+   "recall": 1.0,
+   "rr": 0.16666666666666666
+  },
+  {
+   "dataset": "cuad",
+   "index": 607,
+   "doc": "cuad/HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement.txt",
+   "recall": 1.0,
+   "rr": 0.125
+  },
+  {
+   "dataset": "cuad",
+   "index": 608,
+   "doc": "cuad/HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 609,
+   "doc": "cuad/HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 610,
+   "doc": "cuad/HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 611,
+   "doc": "cuad/HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 612,
+   "doc": "cuad/HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement.txt",
+   "recall": 1.0,
+   "rr": 0.125
+  },
+  {
+   "dataset": "cuad",
+   "index": 613,
+   "doc": "cuad/HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement.txt",
+   "recall": 0.5578602620087336,
+   "rr": 0.5
+  },
+  {
+   "dataset": "cuad",
+   "index": 614,
+   "doc": "cuad/HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement.txt",
+   "recall": 0.7879310344827586,
+   "rr": 0.16666666666666666
+  },
+  {
+   "dataset": "cuad",
+   "index": 2478,
+   "doc": "cuad/MJBIOTECH,INC_12_06_2018-EX-99.01-JOINT VENTURE AGREEMENT.txt",
+   "recall": 1.0,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "cuad",
+   "index": 2479,
+   "doc": "cuad/MJBIOTECH,INC_12_06_2018-EX-99.01-JOINT VENTURE AGREEMENT.txt",
+   "recall": 1.0,
+   "rr": 1.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2480,
+   "doc": "cuad/MJBIOTECH,INC_12_06_2018-EX-99.01-JOINT VENTURE AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2481,
+   "doc": "cuad/MJBIOTECH,INC_12_06_2018-EX-99.01-JOINT VENTURE AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2482,
+   "doc": "cuad/MJBIOTECH,INC_12_06_2018-EX-99.01-JOINT VENTURE AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2483,
+   "doc": "cuad/MJBIOTECH,INC_12_06_2018-EX-99.01-JOINT VENTURE AGREEMENT.txt",
+   "recall": 0.5592654424040067,
+   "rr": 0.5
+  },
+  {
+   "dataset": "cuad",
+   "index": 2484,
+   "doc": "cuad/MJBIOTECH,INC_12_06_2018-EX-99.01-JOINT VENTURE AGREEMENT.txt",
+   "recall": 1.0,
+   "rr": 0.25
+  },
+  {
+   "dataset": "cuad",
+   "index": 2485,
+   "doc": "cuad/MJBIOTECH,INC_12_06_2018-EX-99.01-JOINT VENTURE AGREEMENT.txt",
+   "recall": 1.0,
+   "rr": 0.16666666666666666
+  },
+  {
+   "dataset": "cuad",
+   "index": 2566,
+   "doc": "cuad/WESTERN COPPER - NON-COMPETITION AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2567,
+   "doc": "cuad/WESTERN COPPER - NON-COMPETITION AGREEMENT.txt",
+   "recall": 0.3357142857142857,
+   "rr": 0.1111111111111111
+  },
+  {
+   "dataset": "cuad",
+   "index": 1769,
+   "doc": "cuad/BONTONSTORESINC_04_20_2018-EX-99.3-AGENCY AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 1770,
+   "doc": "cuad/BONTONSTORESINC_04_20_2018-EX-99.3-AGENCY AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 1771,
+   "doc": "cuad/BONTONSTORESINC_04_20_2018-EX-99.3-AGENCY AGREEMENT.txt",
+   "recall": 0.9587628865979382,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "cuad",
+   "index": 1772,
+   "doc": "cuad/BONTONSTORESINC_04_20_2018-EX-99.3-AGENCY AGREEMENT.txt",
+   "recall": 1.0,
+   "rr": 0.3333333333333333
+  },
+  {
+   "dataset": "cuad",
+   "index": 1773,
+   "doc": "cuad/BONTONSTORESINC_04_20_2018-EX-99.3-AGENCY AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 1774,
+   "doc": "cuad/BONTONSTORESINC_04_20_2018-EX-99.3-AGENCY AGREEMENT.txt",
+   "recall": 0.8285077951002228,
+   "rr": 0.25
+  },
+  {
+   "dataset": "cuad",
+   "index": 2467,
+   "doc": "cuad/IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2468,
+   "doc": "cuad/IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2469,
+   "doc": "cuad/IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2470,
+   "doc": "cuad/IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT.txt",
+   "recall": 0.44035874439461886,
+   "rr": 0.14285714285714285
+  },
+  {
+   "dataset": "cuad",
+   "index": 2471,
+   "doc": "cuad/IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2472,
+   "doc": "cuad/IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2473,
+   "doc": "cuad/IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT.txt",
+   "recall": 0.5809859154929577,
+   "rr": 0.14285714285714285
+  },
+  {
+   "dataset": "cuad",
+   "index": 2474,
+   "doc": "cuad/IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2475,
+   "doc": "cuad/IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2476,
+   "doc": "cuad/IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT.txt",
+   "recall": 1.0,
+   "rr": 0.2
+  },
+  {
+   "dataset": "cuad",
+   "index": 2477,
+   "doc": "cuad/IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT.txt",
+   "recall": 1.0,
+   "rr": 1.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2644,
+   "doc": "cuad/VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2645,
+   "doc": "cuad/VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2899,
+   "doc": "cuad/SUCAMPOPHARMACEUTICALS,INC_11_04_2015-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2900,
+   "doc": "cuad/SUCAMPOPHARMACEUTICALS,INC_11_04_2015-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2901,
+   "doc": "cuad/SUCAMPOPHARMACEUTICALS,INC_11_04_2015-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2902,
+   "doc": "cuad/SUCAMPOPHARMACEUTICALS,INC_11_04_2015-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 2903,
+   "doc": "cuad/SUCAMPOPHARMACEUTICALS,INC_11_04_2015-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 3767,
+   "doc": "cuad/Loop Industries, Inc. - Marketing Agreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 3768,
+   "doc": "cuad/Loop Industries, Inc. - Marketing Agreement.txt",
+   "recall": 0.0,
+   "rr": 0.0
+  },
+  {
+   "dataset": "cuad",
+   "index": 3769,
+   "doc": "cuad/Loop Industries, Inc. - Marketing Agreement.txt",
+   "recall": 0.5870646766169154,
+   "rr": 0.5
+  },
+  {
+   "dataset": "cuad",
+   "index": 3770,
+   "doc": "cuad/Loop Industries, Inc. - Marketing Agreement.txt",
+   "recall": 0.5870646766169154,
+   "rr": 1.0
+  }
+ ]
+}

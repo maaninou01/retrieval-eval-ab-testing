@@ -1,0 +1,58 @@
+# The retrieval setups under test, built from standard, untuned parts.
+# Each [setups.<name>] is one setup: its chunk size and the switches that are on; a switch left out is off.
+# Switches: bm25 and dense (at least one; both = hybrid, merged by RRF), hyde (needs dense), rerank.
+# A pair under [comparisons] must differ in exactly one key; committing it before its run is its pre-registration.
+
+[setups.bm25]
+# Same size as the LegalBench-RAG paper; no overlap.
+chunk_size = 500
+bm25 = true
+
+[setups.dense]
+chunk_size = 500
+dense = true
+
+[setups.hybrid]
+chunk_size = 500
+bm25 = true
+dense = true
+
+[setups.hybrid-L]
+# Rule 3: the 90th percentile of the 1,307 gold snippet lengths in the mini set (`python data.py`) is
+# 1,115.4 characters -> rounded up to 1,250, inside [1,000, 2,500].
+chunk_size = 1250
+bm25 = true
+dense = true
+
+[setups.hybrid-rerank]
+chunk_size = 500
+bm25 = true
+dense = true
+rerank = true
+
+[setups.dense-rerank]
+chunk_size = 500
+dense = true
+rerank = true
+
+[setups.dense-hyde]
+chunk_size = 500
+dense = true
+hyde = true
+
+[setups.hybrid-rerank-hyde]
+chunk_size = 500
+bm25 = true
+dense = true
+hyde = true
+rerank = true
+
+[comparisons]
+# Pre-registered rules 1 and 8, as [base, change]: each difference is change minus base. Holm runs within each round.
+round1 = [["dense", "hybrid"], ["hybrid", "hybrid-L"], ["hybrid", "hybrid-rerank"]]
+round2 = [
+    ["dense", "dense-hyde"],
+    ["hybrid-rerank", "hybrid-rerank-hyde"],
+    ["dense", "dense-rerank"],
+    ["dense-rerank", "hybrid-rerank"],
+]
