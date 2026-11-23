@@ -137,5 +137,5 @@ def run(setup: dict, questions: list[dict], corpus: dict[str, str]) -> tuple[lis
     if setup.get("rerank"):
         top = ranking[:, :RERANK_CANDIDATES]
         order = rerank(queries, [[texts[i] for i in row] for row in top])
-        ranking = np.concatenate([np.take_along_axis(top, order, axis=1), ranking[:, RERANK_CANDIDATES:]], axis=1)
+        ranking = np.concatenate([top, ranking[:, RERANK_CANDIDATES:]], axis=1)
     return chunks, ranking
